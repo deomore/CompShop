@@ -1,0 +1,2 @@
+2020-12-03 01:18:47,659 [9] INFO  CompShop.DAO.DAOclasses.GoodsDAO [(null)] -Пытаемся добавить новый объект
+2020-12-03 01:18:48,816 [9] INFO  CompShop.DAO.DAOclasses.GoodsDAO [(null)] -Успешно добавлено
