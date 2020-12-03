@@ -20,6 +20,7 @@ namespace CompShop.Models
             this.Goods = new HashSet<Goods>();
         }
     
+        public string text { get; set; }
         public int ProviderID { get; set; }
         public string Name { get; set; }
         public int MainCat { get; set; }
